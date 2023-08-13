@@ -1,4 +1,4 @@
-from collections import MutableMapping
+from collections.abc import MutableMapping
 from random import randint
 import os
 import time
